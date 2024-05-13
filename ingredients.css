@@ -2,8 +2,8 @@
 /* CSS Document */
 
 .bun-top {
-  height: 80px;
-  width: 70%;
+  height: 100px;
+  width: 80%;
   background: #DEB887;
   border-radius: 100px 100px 20px 20px;
   border-bottom: solid 10px rgba(0,0,0,.1);
@@ -12,20 +12,20 @@
 .cheese {
   height: 15px;
   width: 65%;
-  background: lightyellow;
+  background: #FFA600;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .tomato {
   height: 25px;
   width: 50%;
-  background-color: tomato;
+  background-color: #D7402B;
   border-bottom: solid 2px rgba(0,0,0,.1);
 }
 
 .meatball {
-  height: 60px;
-  width: 70px;
+  height: 70px;
+  width: 80px;
   background: #8B4513;
   border-radius: 50px;
   display: inline-block;
@@ -33,8 +33,8 @@
 }
 
 .patty {
-  height: 50px;
-  width: 70%;
+  height: 60px;
+  width: 80%;
   background: #4B3621;
   border-radius: 15px;
   border-bottom: solid 2px rgba(0,0,0,.1);
@@ -43,21 +43,37 @@
 .pickle {
   height: 30px;
   width: 50%;
-  background: green;
+  background: #93934A;
   border-radius: 0 0 100px 100px;
   border-bottom: solid 10px #2d9961;
 }
 
 .onion {
-  width: 40%;
-  background-color: white;
+  width: 50%;
+  background-color: #894452;
   border-top: dotted 20px rgba(255,255,255,.2);
 }
 
 .bun-bottom {
-  height: 35px;
-  width: 60%;
+  height: 50px;
+  width: 70%;
   background: #DEB887;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.avocado {
+  height: 50px;
+  width: 70%;
+  background: #90EE90;
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1)
+}
+
+.bacon {
+  height: 30px;
+  width: 90%;
+  background: #D2691E;
   border-radius: 20px 20px 40px 40px;
   border-top: solid 8px rgba(0,0,0,.1)
 }
@@ -65,6 +81,6 @@
 .plate {
   height: 25px;
   width: 80%;
-  background: #CAB266;
+  background: blue ;
   border-radius: 20px 20px 200px 200px;
 }
